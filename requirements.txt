@@ -1,0 +1,24 @@
+APScheduler>=3.6.3
+blinker>=1.4
+Click>=7.0
+dnspython>=2.0.0
+Flask>=1.1.2
+Flask-Caching>=1.9.0
+Flask-DebugToolbar>=0.11.0
+Flask-SQLAlchemy>=2.4.4
+itsdangerous>=1.1.0
+Jinja2>=2.11.2
+MarkupSafe>=1.1.1
+psycopg2-binary>=2.8.4
+pynetbox>=5.1.1
+pytz>=2020.4
+PyYAML>=5.3.1
+requests>=2.25.1
+SQLAlchemy==1.3.20
+targetoss-tappy>=0.9.5
+Werkzeug>=0.16.0
+# TZdata is a Python package containing zic-compiled binaries for the IANA time zone database. It is intended to be a fallback 
+# for systems that do not have system time zone data installed (or don’t have it installed in a standard location)
+tzdata>=2021.1
+pexpect==4.8.0
+paramiko==2.7.2
